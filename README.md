@@ -2,12 +2,9 @@
 
 Simeple-Grid is a 12 column grid system.
 
-**Deployed Link**
-
-- https://hyunse.github.io/simple-grid/
+**Deployed Link**: https://hyunse.github.io/simple-grid/
 
 **Technologies Used**
-
 - CSS
 - Grid Layout
 
@@ -46,3 +43,6 @@ This is a **12** column grid system. And it provides **responsive** columns.
 
 ## Todo
 - [ ] Align items
+
+## License
+[MIT License](./LICENSE)
